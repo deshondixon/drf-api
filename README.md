@@ -3,6 +3,13 @@
 ### Author: DeShon Dixon
 
 ---
+
+- To run Docker
+
+
+    python manage.py runserver 0.0.0.0:8000
+
+
 - To login
   - username: admin
   - password: 1234
@@ -13,7 +20,7 @@
 - Run in browser
 
 
-    http://127.0.0.1:8000/api/v1/myapi/
+    http://0.0.0.0:8000/api/v1/myapi/
 
 ## Overview
 
